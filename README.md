@@ -1,6 +1,6 @@
-# chayay
+# Chayay
 
-Chayay app to get shorter routes to a destination using bikeways.
+Android/iOS app for bikers to get different routes to a destination using bikeways.
 
 ## Getting Started
 
